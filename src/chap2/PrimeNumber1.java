@@ -13,6 +13,6 @@ public class PrimeNumber1 {
             if (n == i)
                 System.out.println(n);
         }
-        System.out.println("나눗셈을 수행한 횟수는: " + counter);
+        System.out.println("나눗셈을 수행한 횟수는? " + counter);
     }
 }
