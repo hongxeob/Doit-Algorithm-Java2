@@ -3,7 +3,7 @@ package chap2;
 import java.util.Scanner;
 
 public class SeqSearch {
-     // 요솟수가 n인 배열 a에서 key와 같은 값이 있는지 찾음(while문 사용)
+    // 요솟수가 n인 배열 a에서 key와 같은 값이 있는지 찾음(while문 사용)
     static int seqSearch(int[] a, int n, int key) {
         int i = 0;
         while (true) {
